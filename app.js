@@ -42,3 +42,5 @@ readline.question(`What's your dog name?`, name => {
 })
 
 //npm install <package>@<version>.
+
+// prueba app 2.
